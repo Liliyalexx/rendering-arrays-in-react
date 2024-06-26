@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  font-family: Arial, sans-serif;
 }
 
 .App-logo {
@@ -35,4 +36,13 @@
   to {
     transform: rotate(360deg);
   }
+}
+.learner {
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin: 10px;
+}
+
+.score {
+  margin-left: 20px;
 }
